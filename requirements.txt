@@ -1,0 +1,10 @@
+shioaji
+requests
+yfinance
+feedparser
+pandas
+python-dotenv
+faiss-cpu
+sentence-transformers
+numpy
+opencc-python-reimplemented

@@ -1,0 +1,18 @@
+.venv/
+data/
+.env
+*.env
+__pycache__/
+*.pyc
+*.log
+eval/candidates/
+
+# backups / generated eval output
+*.bak
+*.bak_*
+eval/last_run_*.txt
+eval/last_test_*.txt
+eval/selftest_*.json
+broker_secrets*.json
+*.pem
+*.key
