@@ -16,3 +16,4 @@ eval/selftest_*.json
 broker_secrets*.json
 *.pem
 *.key
+docs/backtest_*.md
